@@ -7,9 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>hey JSp</h1>
-<h2>welcome jsp</h2>
-<h3>hai</h3>
-
+<h1>new one</h1>
 </body>
 </html>
